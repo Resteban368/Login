@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "612432473232",
+    "firebase_url": "https://flutter-login-767f1-default-rtdb.firebaseio.com",
+    "project_id": "flutter-login-767f1",
+    "storage_bucket": "flutter-login-767f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612432473232:android:f28b0f66908b671d593c15",
+        "android_client_info": {
+          "package_name": "com.example.formulario_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612432473232-hh1kf5rapqcqeqet57nmign60vdif0gv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8VYgiiadwY3Sgx5uuQy62yLfIzUd8WGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612432473232-hh1kf5rapqcqeqet57nmign60vdif0gv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
